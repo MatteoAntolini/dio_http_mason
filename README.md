@@ -6,3 +6,5 @@ Mason script helper for https://pub.dev/packages/dio_http_client
 `dart pub global activate mason_cli`
 
 `mason add -g dio_http_mason --path .`
+
+`mason make dio_http_mason`
